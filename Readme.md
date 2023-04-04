@@ -19,3 +19,5 @@ Desenvolvedor Android com experiência em desenvolvimento de aplicativos mobile 
 ## Contato
 - LinkedIn: [Matheus Lima da Silva](https://www.linkedin.com/in/matheus-lima-295687134/)
 - Email: [matheusldasilva20088@gmail.com](mailto:matheusldasilva20088@gmail.com)
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmaths&layout=compact&hide=html" alt="lmaths" /></p>
