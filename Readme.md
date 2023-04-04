@@ -19,6 +19,3 @@ Desenvolvedor Android com experiência em desenvolvimento de aplicativos mobile 
 ## Contato
 - LinkedIn: [Matheus Lima da Silva](https://www.linkedin.com/in/matheus-lima-295687134/)
 - Email: [matheusldasilva20088@gmail.com](mailto:matheusldasilva20088@gmail.com)
-
-## Resumo do perfil
-[![HOY8Qku.md.png](https://iili.io/HOY8Qku.md.png)](https://freeimage.host/i/HOY8Qku)
