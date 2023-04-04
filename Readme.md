@@ -17,5 +17,5 @@ Desenvolvedor Android com experiência em desenvolvimento de aplicativos mobile 
 - Jetpack components
 
 ## Contato
-- LinkedIn: [Matheus Lima da Silva](https://www.linkedin.com/in/seu-perfil-do-linkedin](https://www.linkedin.com/in/matheus-lima-295687134/)
+- LinkedIn: [Matheus Lima da Silva](https://www.linkedin.com/in/matheus-lima-295687134/)
 - Email: [matheusldasilva20088@gmail.com](mailto:matheusldasilva20088@gmail.com)
